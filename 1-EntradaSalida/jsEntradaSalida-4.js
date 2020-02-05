@@ -4,6 +4,11 @@
 */
 function mostrar()
 {
-
+	//muestra mensaje
+var nombre;
+//pido el nombre en la venta emergente
+nombre = prompt("ingrese su nombre");
+//muentro lo que ingresan en por la pantalla emergente,en el cuadro de la pagina
+document.getElementById("elNombre").value   =nombre;
 }
 

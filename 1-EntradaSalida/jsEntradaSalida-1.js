@@ -1,6 +1,7 @@
 //Debemos lograr mostrar un mensaje al presionar el botón  'mostrar'.
 function mostrar()
 {
-	alert("ok");
+	//muestro una alerta en la página
+	alert("esto funciona de maravilla");
 }
 
