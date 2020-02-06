@@ -2,6 +2,7 @@
 function mostrar()
 {
 	//muestro una alerta en la página
-	alert("esto funciona de maravilla");
+
+	alert("esto funciona de maravilla")
 }
 
