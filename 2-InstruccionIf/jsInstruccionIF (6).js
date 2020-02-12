@@ -3,13 +3,18 @@ function mostrar()
     var edad;
     edad=parseInt(document.getElementById("edad").value);
 
-    if (edad >=18){
-        alert("es mayor de edad")
+    if (edad >=18) {
+        alert("es mayor de edad");
 
     }
-    alse 
+    alse {
+        if (edad <=17){
 
-        alse ()
+            alert("es adolescente");
+
+        alse
+            alert("es mayor de edad");
+        }
     }
 
 
