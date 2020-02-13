@@ -1,6 +1,17 @@
 function mostrar()
 {
-	//Genero el número RANDOM entre 1 y 10 
-	
+	var noy
+	if(nota <4) {
 
+		alert("vamos la proxima se puede")
+
+	}
+	elseif(nota <9){
+
+		alert("aprobado")
+	}
+	alse{
+
+		alert("exelente")
+	}
 }//FIN DE LA FUNCIÓN
