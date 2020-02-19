@@ -5,8 +5,8 @@ function mostrar()
 
 	while(descendentes > 0){
 
-		console.log(descuento);
-		descuento--;
+		console.log(descendentes);
+		descendentes--;
 	}
 	
 
