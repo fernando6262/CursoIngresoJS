@@ -1,6 +1,7 @@
 function mostrar()
 {
-
+    var numero;
+    var contadorNumerosprimo
 
 
 
